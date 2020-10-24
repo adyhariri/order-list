@@ -85,9 +85,6 @@ function showCart() {
       
       }
       
-      // This will initialize the page and draw the cart on screen
-
-    // This will initialize the page and draw the cart on screen
+     
     renderCart();
-    // table.addEventListener('click', removeItemFromCart);
 
